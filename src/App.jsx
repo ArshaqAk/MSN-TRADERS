@@ -9,7 +9,8 @@ function App() {
   return (
     <>
       <div>
-          <img src="/assets/logo.png" alt="" />
+          <h1>Contact for this domain - msntraders.com</h1>
+          <h2>Phone : 9745395629</h2>
       </div>
     </>
   )
